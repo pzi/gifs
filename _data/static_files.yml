@@ -53,6 +53,9 @@
 - path: cats/cat-hat-nofucksgiven.gif
   modified_time: 1444877898
   extname: ".gif"
+- path: cats/cat-laser-eyes.gif
+  modified_time: 1449110242
+  extname: ".gif"
 - path: cats/cat-nope.gif
   modified_time: 1446804185
   extname: ".gif"
@@ -640,6 +643,9 @@
   extname: ".gif"
 - path: upset/conan-ragequit.gif
   modified_time: 1446803799
+  extname: ".gif"
+- path: upset/did-u-see-this.gif
+  modified_time: 1449110233
   extname: ".gif"
 - path: upset/done-with-this.gif
   modified_time: 1446804228
