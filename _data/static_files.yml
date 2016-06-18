@@ -50,11 +50,17 @@
 - path: careful/indiana-jones-sand-bag.gif
   modified_time: 1446803798
   extname: ".gif"
+- path: cats/cat-fail.gif
+  modified_time: 1414585217
+  extname: ".gif"
 - path: cats/cat-hat-nofucksgiven.gif
   modified_time: 1444877898
   extname: ".gif"
 - path: cats/cat-laser-eyes.gif
   modified_time: 1449110242
+  extname: ".gif"
+- path: cats/cat-mirror.gif
+  modified_time: 1414585217
   extname: ".gif"
 - path: cats/cat-nope.gif
   modified_time: 1446804185
@@ -62,11 +68,26 @@
 - path: cats/cat-salut.gif
   modified_time: 1444808361
   extname: ".gif"
+- path: cats/catzooka.gif
+  modified_time: 1445855147
+  extname: ".gif"
 - path: cats/fuck-this-cat.gif
   modified_time: 1446804197
   extname: ".gif"
 - path: cats/lazy-cat.gif
   modified_time: 1446804163
+  extname: ".gif"
+- path: cats/partyhard.gif
+  modified_time: 1461311415
+  extname: ".gif"
+- path: cats/shhhhhh.gif
+  modified_time: 1414585217
+  extname: ".gif"
+- path: cats/snuggle-cat.gif
+  modified_time: 1414585217
+  extname: ".gif"
+- path: cats/upvote-cat.gif
+  modified_time: 1414585217
   extname: ".gif"
 - path: cinemagraphs/whiskey-pour.gif
   modified_time: 1446803798
@@ -121,6 +142,9 @@
   extname: ".gif"
 - path: crying/sad-kitty.gif
   modified_time: 1446803798
+  extname: ".gif"
+- path: crying/sucking_thumb.gif
+  modified_time: 1460099304
   extname: ".gif"
 - path: dancing/ace-ventura-dance.gif
   modified_time: 1446803798
@@ -215,6 +239,9 @@
 - path: done/hand-wipe.gif
   modified_time: 1446803799
   extname: ".gif"
+- path: done/minion_mic_drop.gif
+  modified_time: 1462955551
+  extname: ".gif"
 - path: excited/42-Snoop-Bounce.gif
   modified_time: 1446803799
   extname: ".gif"
@@ -301,6 +328,9 @@
   extname: ".gif"
 - path: fu/boba-fett.gif
   modified_time: 1446803799
+  extname: ".gif"
+- path: fu/congrats.gif
+  modified_time: 1445566898
   extname: ".gif"
 - path: fu/finger.gif
   modified_time: 1446803799
@@ -688,6 +718,9 @@
   extname: ".gif"
 - path: whatever/miley-whatever.gif
   modified_time: 1446803800
+  extname: ".gif"
+- path: whatever/trumpfaces.gif
+  modified_time: 1452679236
   extname: ".gif"
 - path: why-you/i-see-what-you-did-there.gif
   modified_time: 1446803800
