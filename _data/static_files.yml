@@ -1,796 +1,2487 @@
 ---
-- path: amazed/hepburn-sunglasses-off.gif
+- title: hepburn-sunglasses-off.gif
+  category: amazed
+  path: amazed/hepburn-sunglasses-off.gif
   modified_time: 1486700759
-  extname: ".gif"
-- path: big-lebowski/ashes-toss.gif
+  tags:
+  - amazed
+  - gif
+  - hepburn
+  - 'off'
+  - sunglasses
+- title: ashes-toss.gif
+  category: big-lebowski
+  path: big-lebowski/ashes-toss.gif
   modified_time: 1486700759
-  extname: ".gif"
-- path: big-lebowski/gun.gif
+  tags:
+  - ashes
+  - big
+  - gif
+  - lebowski
+  - toss
+- title: gun.gif
+  category: big-lebowski
+  path: big-lebowski/gun.gif
   modified_time: 1486700759
-  extname: ".gif"
-- path: big-lebowski/no-huh-uh.gif
+  tags:
+  - big
+  - gif
+  - gun
+  - lebowski
+- title: no-huh-uh.gif
+  category: big-lebowski
+  path: big-lebowski/no-huh-uh.gif
   modified_time: 1486700759
-  extname: ".gif"
-- path: big-lebowski/polish-my-ball.gif
+  tags:
+  - big
+  - gif
+  - huh
+  - lebowski
+  - 'no'
+  - uh
+- title: polish-my-ball.gif
+  category: big-lebowski
+  path: big-lebowski/polish-my-ball.gif
   modified_time: 1486700759
-  extname: ".gif"
-- path: big-lebowski/stoned.gif
+  tags:
+  - ball
+  - big
+  - gif
+  - lebowski
+  - my
+  - polish
+- title: stoned.gif
+  category: big-lebowski
+  path: big-lebowski/stoned.gif
   modified_time: 1486700759
-  extname: ".gif"
-- path: big-lebowski/what.gif
+  tags:
+  - big
+  - gif
+  - lebowski
+  - stoned
+- title: what.gif
+  category: big-lebowski
+  path: big-lebowski/what.gif
   modified_time: 1486700759
-  extname: ".gif"
-- path: boom/booyah.gif
+  tags:
+  - big
+  - gif
+  - lebowski
+  - what
+- title: booyah.gif
+  category: boom
+  path: boom/booyah.gif
   modified_time: 1486700759
-  extname: ".gif"
-- path: boom/cat-explosion.gif
+  tags:
+  - boom
+  - booyah
+  - gif
+- title: cat-explosion.gif
+  category: boom
+  path: boom/cat-explosion.gif
   modified_time: 1486700759
-  extname: ".gif"
-- path: boom/fist-bump.gif
+  tags:
+  - boom
+  - cat
+  - explosion
+  - gif
+- title: fist-bump.gif
+  category: boom
+  path: boom/fist-bump.gif
   modified_time: 1486700759
-  extname: ".gif"
-- path: boom/mic-drop-2.gif
+  tags:
+  - boom
+  - bump
+  - fist
+  - gif
+- title: mic-drop-2.gif
+  category: boom
+  path: boom/mic-drop-2.gif
   modified_time: 1486700759
-  extname: ".gif"
-- path: boom/nuke.gif
+  tags:
+  - '2'
+  - boom
+  - drop
+  - gif
+  - mic
+- title: nuke.gif
+  category: boom
+  path: boom/nuke.gif
   modified_time: 1486700760
-  extname: ".gif"
-- path: bring-it/challenge-accepted.gif
+  tags:
+  - boom
+  - gif
+  - nuke
+- title: challenge-accepted.gif
+  category: bring-it
+  path: bring-it/challenge-accepted.gif
   modified_time: 1486700760
-  extname: ".gif"
-- path: burn/car-burn.gif
+  tags:
+  - accepted
+  - bring
+  - challenge
+  - gif
+  - it
+- title: car-burn.gif
+  category: burn
+  path: burn/car-burn.gif
   modified_time: 1486700760
-  extname: ".gif"
-- path: burn/fight-club-burn-it-down.gif
+  tags:
+  - burn
+  - car
+  - gif
+- title: fight-club-burn-it-down.gif
+  category: burn
+  path: burn/fight-club-burn-it-down.gif
   modified_time: 1486700760
-  extname: ".gif"
-- path: burn/hashtag-burn-neil-patrick-harris.gif
+  tags:
+  - burn
+  - club
+  - down
+  - fight
+  - gif
+  - it
+- title: hashtag-burn-neil-patrick-harris.gif
+  category: burn
+  path: burn/hashtag-burn-neil-patrick-harris.gif
   modified_time: 1486700760
-  extname: ".gif"
-- path: careful/indiana-jones-sand-bag.gif
+  tags:
+  - burn
+  - gif
+  - harris
+  - hashtag
+  - neil
+  - patrick
+- title: indiana-jones-sand-bag.gif
+  category: careful
+  path: careful/indiana-jones-sand-bag.gif
   modified_time: 1486700760
-  extname: ".gif"
-- path: cats/cat-fail.gif
+  tags:
+  - bag
+  - careful
+  - gif
+  - indiana
+  - jones
+  - sand
+- title: cat-fail.gif
+  category: cats
+  path: cats/cat-fail.gif
   modified_time: 1486700760
-  extname: ".gif"
-- path: cats/cat-hat-nofucksgiven.gif
+  tags:
+  - cat
+  - cats
+  - fail
+  - gif
+- title: cat-hat-nofucksgiven.gif
+  category: cats
+  path: cats/cat-hat-nofucksgiven.gif
   modified_time: 1486700761
-  extname: ".gif"
-- path: cats/cat-laser-eyes.gif
+  tags:
+  - cat
+  - cats
+  - gif
+  - hat
+  - nofucksgiven
+- title: cat-laser-eyes.gif
+  category: cats
+  path: cats/cat-laser-eyes.gif
   modified_time: 1486700762
-  extname: ".gif"
-- path: cats/cat-mirror.gif
+  tags:
+  - cat
+  - cats
+  - eyes
+  - gif
+  - laser
+- title: cat-mirror.gif
+  category: cats
+  path: cats/cat-mirror.gif
   modified_time: 1486700762
-  extname: ".gif"
-- path: cats/cat-nope.gif
+  tags:
+  - cat
+  - cats
+  - gif
+  - mirror
+- title: cat-nope.gif
+  category: cats
+  path: cats/cat-nope.gif
   modified_time: 1486700762
-  extname: ".gif"
-- path: cats/cat-salut.gif
+  tags:
+  - cat
+  - cats
+  - gif
+  - nope
+- title: cat-salut.gif
+  category: cats
+  path: cats/cat-salut.gif
   modified_time: 1486700762
-  extname: ".gif"
-- path: cats/catzooka.gif
+  tags:
+  - cat
+  - cats
+  - gif
+  - salut
+- title: catzooka.gif
+  category: cats
+  path: cats/catzooka.gif
   modified_time: 1486700762
-  extname: ".gif"
-- path: cats/fuck-this-cat.gif
+  tags:
+  - cats
+  - catzooka
+  - gif
+- title: fuck-this-cat.gif
+  category: cats
+  path: cats/fuck-this-cat.gif
   modified_time: 1486700762
-  extname: ".gif"
-- path: cats/lazy-cat.gif
+  tags:
+  - cat
+  - cats
+  - fuck
+  - gif
+  - this
+- title: lazy-cat.gif
+  category: cats
+  path: cats/lazy-cat.gif
   modified_time: 1486700762
-  extname: ".gif"
-- path: cats/partyhard.gif
+  tags:
+  - cat
+  - cats
+  - gif
+  - lazy
+- title: partyhard.gif
+  category: cats
+  path: cats/partyhard.gif
   modified_time: 1486700762
-  extname: ".gif"
-- path: cats/shhhhhh.gif
+  tags:
+  - cats
+  - gif
+  - partyhard
+- title: shhhhhh.gif
+  category: cats
+  path: cats/shhhhhh.gif
   modified_time: 1486700763
-  extname: ".gif"
-- path: cats/snuggle-cat.gif
+  tags:
+  - cats
+  - gif
+  - shhhhhh
+- title: snuggle-cat.gif
+  category: cats
+  path: cats/snuggle-cat.gif
   modified_time: 1486700763
-  extname: ".gif"
-- path: cats/upvote-cat.gif
+  tags:
+  - cat
+  - cats
+  - gif
+  - snuggle
+- title: upvote-cat.gif
+  category: cats
+  path: cats/upvote-cat.gif
   modified_time: 1486700763
-  extname: ".gif"
-- path: cinemagraphs/whiskey-pour.gif
+  tags:
+  - cat
+  - cats
+  - gif
+  - upvote
+- title: whiskey-pour.gif
+  category: cinemagraphs
+  path: cinemagraphs/whiskey-pour.gif
   modified_time: 1486700763
-  extname: ".gif"
-- path: clap/applause.gif
+  tags:
+  - cinemagraphs
+  - gif
+  - pour
+  - whiskey
+- title: applause.gif
+  category: clap
+  path: clap/applause.gif
   modified_time: 1486700763
-  extname: ".gif"
-- path: clap/clap.gif
+  tags:
+  - applause
+  - clap
+  - gif
+- title: clap.gif
+  category: clap
+  path: clap/clap.gif
   modified_time: 1486700763
-  extname: ".gif"
-- path: clap/dance.gif
+  tags:
+  - clap
+  - gif
+- title: dance.gif
+  category: clap
+  path: clap/dance.gif
   modified_time: 1486700763
-  extname: ".gif"
-- path: classics/im-an-adult.gif
+  tags:
+  - clap
+  - dance
+  - gif
+- title: im-an-adult.gif
+  category: classics
+  path: classics/im-an-adult.gif
   modified_time: 1486700764
-  extname: ".gif"
-- path: classics/snoopy-drinking.gif
+  tags:
+  - adult
+  - an
+  - classics
+  - gif
+  - im
+- title: snoopy-drinking.gif
+  category: classics
+  path: classics/snoopy-drinking.gif
   modified_time: 1347336099
-  extname: ".gif"
-- path: classics/whatchutalkingbout-willis.gif
+  tags:
+  - classics
+  - drinking
+  - gif
+  - snoopy
+- title: whatchutalkingbout-willis.gif
+  category: classics
+  path: classics/whatchutalkingbout-willis.gif
   modified_time: 1486700764
-  extname: ".gif"
-- path: contempt/Dwight-Schrute-look-of-disapproval.gif
+  tags:
+  - classics
+  - gif
+  - whatchutalkingbout
+  - willis
+- title: Dwight-Schrute-look-of-disapproval.gif
+  category: contempt
+  path: contempt/Dwight-Schrute-look-of-disapproval.gif
   modified_time: 1486700764
-  extname: ".gif"
-- path: contempt/enough-internet.gif
+  tags:
+  - Dwight
+  - Schrute
+  - contempt
+  - disapproval
+  - gif
+  - look
+  - of
+- title: enough-internet.gif
+  category: contempt
+  path: contempt/enough-internet.gif
   modified_time: 1486700764
-  extname: ".gif"
-- path: contempt/max-smart-confused.gif
+  tags:
+  - contempt
+  - enough
+  - gif
+  - internet
+- title: max-smart-confused.gif
+  category: contempt
+  path: contempt/max-smart-confused.gif
   modified_time: 1486700765
-  extname: ".gif"
-- path: contempt/no_way_Neil_deGrasse_Tyson.gif
+  tags:
+  - confused
+  - contempt
+  - gif
+  - max
+  - smart
+- title: no_way_Neil_deGrasse_Tyson.gif
+  category: contempt
+  path: contempt/no_way_Neil_deGrasse_Tyson.gif
   modified_time: 1486700765
-  extname: ".gif"
-- path: contempt/simon-cowel-glazed-look.gif
+  tags:
+  - Neil
+  - Tyson
+  - contempt
+  - deGrasse
+  - gif
+  - 'no'
+  - way
+- title: simon-cowel-glazed-look.gif
+  category: contempt
+  path: contempt/simon-cowel-glazed-look.gif
   modified_time: 1486700765
-  extname: ".gif"
-- path: contempt/stevie-mcquinn.gif
+  tags:
+  - contempt
+  - cowel
+  - gif
+  - glazed
+  - look
+  - simon
+- title: stevie-mcquinn.gif
+  category: contempt
+  path: contempt/stevie-mcquinn.gif
   modified_time: 1486700765
-  extname: ".gif"
-- path: crying/bugs-crying.gif
+  tags:
+  - contempt
+  - gif
+  - mcquinn
+  - stevie
+- title: bugs-crying.gif
+  category: crying
+  path: crying/bugs-crying.gif
   modified_time: 1486700765
-  extname: ".gif"
-- path: crying/gushing-tears.gif
+  tags:
+  - bugs
+  - crying
+  - gif
+- title: gushing-tears.gif
+  category: crying
+  path: crying/gushing-tears.gif
   modified_time: 1486700765
-  extname: ".gif"
-- path: crying/jim-cry-happy.gif
+  tags:
+  - crying
+  - gif
+  - gushing
+  - tears
+- title: jim-cry-happy.gif
+  category: crying
+  path: crying/jim-cry-happy.gif
   modified_time: 1486700765
-  extname: ".gif"
-- path: crying/laughing-crying.gif
+  tags:
+  - cry
+  - crying
+  - gif
+  - happy
+  - jim
+- title: laughing-crying.gif
+  category: crying
+  path: crying/laughing-crying.gif
   modified_time: 1486700765
-  extname: ".gif"
-- path: crying/raining.gif
+  tags:
+  - crying
+  - gif
+  - laughing
+- title: raining.gif
+  category: crying
+  path: crying/raining.gif
   modified_time: 1486700765
-  extname: ".gif"
-- path: crying/sad-kitty.gif
+  tags:
+  - crying
+  - gif
+  - raining
+- title: sad-kitty.gif
+  category: crying
+  path: crying/sad-kitty.gif
   modified_time: 1486700765
-  extname: ".gif"
-- path: crying/sucking_thumb.gif
+  tags:
+  - crying
+  - gif
+  - kitty
+  - sad
+- title: sucking_thumb.gif
+  category: crying
+  path: crying/sucking_thumb.gif
   modified_time: 1486700765
-  extname: ".gif"
-- path: dancing/ace-ventura-dance.gif
+  tags:
+  - crying
+  - gif
+  - sucking
+  - thumb
+- title: ace-ventura-dance.gif
+  category: dancing
+  path: dancing/ace-ventura-dance.gif
   modified_time: 1486700765
-  extname: ".gif"
-- path: dancing/bboy-bear.gif
+  tags:
+  - ace
+  - dance
+  - dancing
+  - gif
+  - ventura
+- title: bboy-bear.gif
+  category: dancing
+  path: dancing/bboy-bear.gif
   modified_time: 1486700765
-  extname: ".gif"
-- path: dancing/Blues-Brothers.gif
+  tags:
+  - bboy
+  - bear
+  - dancing
+  - gif
+- title: Blues-Brothers.gif
+  category: dancing
+  path: dancing/Blues-Brothers.gif
   modified_time: 1486700765
-  extname: ".gif"
-- path: dancing/calvin-hobbes-dance.gif
+  tags:
+  - Blues
+  - Brothers
+  - dancing
+  - gif
+- title: calvin-hobbes-dance.gif
+  category: dancing
+  path: dancing/calvin-hobbes-dance.gif
   modified_time: 1486700765
-  extname: ".gif"
-- path: dancing/dancin.gif
+  tags:
+  - calvin
+  - dance
+  - dancing
+  - gif
+  - hobbes
+- title: dancin.gif
+  category: dancing
+  path: dancing/dancin.gif
   modified_time: 1486700765
-  extname: ".gif"
-- path: dancing/dumb-dumber-dance.gif
+  tags:
+  - dancin
+  - dancing
+  - gif
+- title: dumb-dumber-dance.gif
+  category: dancing
+  path: dancing/dumb-dumber-dance.gif
   modified_time: 1486700765
-  extname: ".gif"
-- path: dancing/girl-get-down.gif
+  tags:
+  - dance
+  - dancing
+  - dumb
+  - dumber
+  - gif
+- title: girl-get-down.gif
+  category: dancing
+  path: dancing/girl-get-down.gif
   modified_time: 1486700765
-  extname: ".gif"
-- path: dancing/hammer-time.gif
+  tags:
+  - dancing
+  - down
+  - get
+  - gif
+  - girl
+- title: hammer-time.gif
+  category: dancing
+  path: dancing/hammer-time.gif
   modified_time: 1486700765
-  extname: ".gif"
-- path: dancing/happy-dance-forever.gif
+  tags:
+  - dancing
+  - gif
+  - hammer
+  - time
+- title: happy-dance-forever.gif
+  category: dancing
+  path: dancing/happy-dance-forever.gif
   modified_time: 1486700765
-  extname: ".gif"
-- path: dancing/napoleon-dance.gif
+  tags:
+  - dance
+  - dancing
+  - forever
+  - gif
+  - happy
+- title: napoleon-dance.gif
+  category: dancing
+  path: dancing/napoleon-dance.gif
   modified_time: 1486700765
-  extname: ".gif"
-- path: dancing/shufflin-robot.gif
+  tags:
+  - dance
+  - dancing
+  - gif
+  - napoleon
+- title: shufflin-robot.gif
+  category: dancing
+  path: dancing/shufflin-robot.gif
   modified_time: 1486700765
-  extname: ".gif"
-- path: dancing/snoop-turning-the-wheel.gif
+  tags:
+  - dancing
+  - gif
+  - robot
+  - shufflin
+- title: snoop-turning-the-wheel.gif
+  category: dancing
+  path: dancing/snoop-turning-the-wheel.gif
   modified_time: 1486702533
-  extname: ".gif"
-- path: dancing/sprockets-dancing.gif
+  tags:
+  - dancing
+  - gif
+  - snoop
+  - the
+  - turning
+  - wheel
+- title: sprockets-dancing.gif
+  category: dancing
+  path: dancing/sprockets-dancing.gif
   modified_time: 1486700766
-  extname: ".gif"
-- path: dancing/stormtroopin.gif
+  tags:
+  - dancing
+  - gif
+  - sprockets
+- title: stormtroopin.gif
+  category: dancing
+  path: dancing/stormtroopin.gif
   modified_time: 1486700766
-  extname: ".gif"
-- path: dancing/techno-viking.gif
+  tags:
+  - dancing
+  - gif
+  - stormtroopin
+- title: techno-viking.gif
+  category: dancing
+  path: dancing/techno-viking.gif
   modified_time: 1486700766
-  extname: ".gif"
-- path: dancing/world-order.gif
+  tags:
+  - dancing
+  - gif
+  - techno
+  - viking
+- title: world-order.gif
+  category: dancing
+  path: dancing/world-order.gif
   modified_time: 1486700766
-  extname: ".gif"
-- path: deal-with-it/deal-with-it-paul-rudd.gif
+  tags:
+  - dancing
+  - gif
+  - order
+  - world
+- title: deal-with-it-paul-rudd.gif
+  category: deal-with-it
+  path: deal-with-it/deal-with-it-paul-rudd.gif
   modified_time: 1486700766
-  extname: ".gif"
-- path: deal-with-it/deal-with-it.gif
+  tags:
+  - deal
+  - gif
+  - it
+  - paul
+  - rudd
+  - with
+- title: deal-with-it.gif
+  category: deal-with-it
+  path: deal-with-it/deal-with-it.gif
   modified_time: 1486700767
-  extname: ".gif"
-- path: deal-with-it/sophia-sunglasses-on.gif
+  tags:
+  - deal
+  - gif
+  - it
+  - with
+- title: sophia-sunglasses-on.gif
+  category: deal-with-it
+  path: deal-with-it/sophia-sunglasses-on.gif
   modified_time: 1486700767
-  extname: ".gif"
-- path: disgust/disgust-jony-depp.gif
+  tags:
+  - deal
+  - gif
+  - it
+  - 'on'
+  - sophia
+  - sunglasses
+  - with
+- title: disgust-jony-depp.gif
+  category: disgust
+  path: disgust/disgust-jony-depp.gif
   modified_time: 1486700767
-  extname: ".gif"
-- path: disgust/disgust.gif
+  tags:
+  - depp
+  - disgust
+  - gif
+  - jony
+- title: disgust.gif
+  category: disgust
+  path: disgust/disgust.gif
   modified_time: 1486700767
-  extname: ".gif"
-- path: disgust/disgusted.gif
+  tags:
+  - disgust
+  - gif
+- title: disgusted.gif
+  category: disgust
+  path: disgust/disgusted.gif
   modified_time: 1486700767
-  extname: ".gif"
-- path: disgust/fresh-prince-omg.gif
+  tags:
+  - disgust
+  - disgusted
+  - gif
+- title: fresh-prince-omg.gif
+  category: disgust
+  path: disgust/fresh-prince-omg.gif
   modified_time: 1486700767
-  extname: ".gif"
-- path: disgust/gangsta-what-the.gif
+  tags:
+  - disgust
+  - fresh
+  - gif
+  - omg
+  - prince
+- title: gangsta-what-the.gif
+  category: disgust
+  path: disgust/gangsta-what-the.gif
   modified_time: 1486700767
-  extname: ".gif"
-- path: disgust/george-costanza.gif
+  tags:
+  - disgust
+  - gangsta
+  - gif
+  - the
+  - what
+- title: george-costanza.gif
+  category: disgust
+  path: disgust/george-costanza.gif
   modified_time: 1486700768
-  extname: ".gif"
-- path: disgust/horrified-hippie.gif
+  tags:
+  - costanza
+  - disgust
+  - george
+  - gif
+- title: horrified-hippie.gif
+  category: disgust
+  path: disgust/horrified-hippie.gif
   modified_time: 1486700768
-  extname: ".gif"
-- path: disgust/judge-judy-computer-disgust.gif
+  tags:
+  - disgust
+  - gif
+  - hippie
+  - horrified
+- title: judge-judy-computer-disgust.gif
+  category: disgust
+  path: disgust/judge-judy-computer-disgust.gif
   modified_time: 1486700768
-  extname: ".gif"
-- path: disgust/stanley-eye-roll.gif
+  tags:
+  - computer
+  - disgust
+  - gif
+  - judge
+  - judy
+- title: stanley-eye-roll.gif
+  category: disgust
+  path: disgust/stanley-eye-roll.gif
   modified_time: 1486700769
-  extname: ".gif"
-- path: disgust/ted-confused.gif
+  tags:
+  - disgust
+  - eye
+  - gif
+  - roll
+  - stanley
+- title: ted-confused.gif
+  category: disgust
+  path: disgust/ted-confused.gif
   modified_time: 1486700769
-  extname: ".gif"
-- path: disgust/uh-yeah-office-space.gif
+  tags:
+  - confused
+  - disgust
+  - gif
+  - ted
+- title: uh-yeah-office-space.gif
+  category: disgust
+  path: disgust/uh-yeah-office-space.gif
   modified_time: 1486700769
-  extname: ".gif"
-- path: disgust/urkle-wtf.gif
+  tags:
+  - disgust
+  - gif
+  - office
+  - space
+  - uh
+  - yeah
+- title: urkle-wtf.gif
+  category: disgust
+  path: disgust/urkle-wtf.gif
   modified_time: 1486702727
-  extname: ".gif"
-- path: disgust/whut.gif
+  tags:
+  - disgust
+  - gif
+  - urkle
+  - wtf
+- title: whut.gif
+  category: disgust
+  path: disgust/whut.gif
   modified_time: 1486700769
-  extname: ".gif"
-- path: done/hand-wipe.gif
+  tags:
+  - disgust
+  - gif
+  - whut
+- title: hand-wipe.gif
+  category: done
+  path: done/hand-wipe.gif
   modified_time: 1486700770
-  extname: ".gif"
-- path: done/minion_mic_drop.gif
+  tags:
+  - done
+  - gif
+  - hand
+  - wipe
+- title: minion_mic_drop.gif
+  category: done
+  path: done/minion_mic_drop.gif
   modified_time: 1486700770
-  extname: ".gif"
-- path: excited/42-Snoop-Bounce.gif
+  tags:
+  - done
+  - drop
+  - gif
+  - mic
+  - minion
+- title: 42-Snoop-Bounce.gif
+  category: excited
+  path: excited/42-Snoop-Bounce.gif
   modified_time: 1486700770
-  extname: ".gif"
-- path: excited/aha.gif
+  tags:
+  - '42'
+  - Bounce
+  - Snoop
+  - excited
+  - gif
+- title: aha.gif
+  category: excited
+  path: excited/aha.gif
   modified_time: 1486700771
-  extname: ".gif"
-- path: excited/anchorman-jump-in-air.gif
+  tags:
+  - aha
+  - excited
+  - gif
+- title: anchorman-jump-in-air.gif
+  category: excited
+  path: excited/anchorman-jump-in-air.gif
   modified_time: 1486700771
-  extname: ".gif"
-- path: excited/cabbage-patch.gif
+  tags:
+  - air
+  - anchorman
+  - excited
+  - gif
+  - in
+  - jump
+- title: cabbage-patch.gif
+  category: excited
+  path: excited/cabbage-patch.gif
   modified_time: 1486700771
-  extname: ".gif"
-- path: excited/carl-sagan-youre-awesome.gif
+  tags:
+  - cabbage
+  - excited
+  - gif
+  - patch
+- title: carl-sagan-youre-awesome.gif
+  category: excited
+  path: excited/carl-sagan-youre-awesome.gif
   modified_time: 1486700771
-  extname: ".gif"
-- path: excited/giggle.gif
+  tags:
+  - awesome
+  - carl
+  - excited
+  - gif
+  - sagan
+  - youre
+- title: giggle.gif
+  category: excited
+  path: excited/giggle.gif
   modified_time: 1486700771
-  extname: ".gif"
-- path: excited/jiggy.gif
+  tags:
+  - excited
+  - gif
+  - giggle
+- title: jiggy.gif
+  category: excited
+  path: excited/jiggy.gif
   modified_time: 1486700771
-  extname: ".gif"
-- path: excited/kip_yes.gif
+  tags:
+  - excited
+  - gif
+  - jiggy
+- title: kip_yes.gif
+  category: excited
+  path: excited/kip_yes.gif
   modified_time: 1486700771
-  extname: ".gif"
-- path: excited/leo-toast.gif
+  tags:
+  - excited
+  - gif
+  - kip
+  - 'yes'
+- title: leo-toast.gif
+  category: excited
+  path: excited/leo-toast.gif
   modified_time: 1486700772
-  extname: ".gif"
-- path: excited/mr-burns-exellent.gif
+  tags:
+  - excited
+  - gif
+  - leo
+  - toast
+- title: mr-burns-exellent.gif
+  category: excited
+  path: excited/mr-burns-exellent.gif
   modified_time: 1486702769
-  extname: ".gif"
-- path: excited/Sean-Connery-Fist-Pump-US-Open.gif
+  tags:
+  - burns
+  - excited
+  - exellent
+  - gif
+  - mr
+- title: Sean-Connery-Fist-Pump-US-Open.gif
+  category: excited
+  path: excited/Sean-Connery-Fist-Pump-US-Open.gif
   modified_time: 1486700771
-  extname: ".gif"
-- path: excited/super-happy-men.gif
+  tags:
+  - Connery
+  - Fist
+  - Open
+  - Pump
+  - Sean
+  - US
+  - excited
+  - gif
+- title: super-happy-men.gif
+  category: excited
+  path: excited/super-happy-men.gif
   modified_time: 1486700772
-  extname: ".gif"
-- path: excited/yes-excited-kids.gif
+  tags:
+  - excited
+  - gif
+  - happy
+  - men
+  - super
+- title: yes-excited-kids.gif
+  category: excited
+  path: excited/yes-excited-kids.gif
   modified_time: 1486700773
-  extname: ".gif"
-- path: excited/yes-github-yissssss.gif
+  tags:
+  - excited
+  - gif
+  - kids
+  - 'yes'
+- title: yes-github-yissssss.gif
+  category: excited
+  path: excited/yes-github-yissssss.gif
   modified_time: 1486700773
-  extname: ".gif"
-- path: excited/zoolander.gif
+  tags:
+  - excited
+  - gif
+  - github
+  - 'yes'
+  - yissssss
+- title: zoolander.gif
+  category: excited
+  path: excited/zoolander.gif
   modified_time: 1486700774
-  extname: ".gif"
-- path: facepalm/cosby-facepalm.gif
+  tags:
+  - excited
+  - gif
+  - zoolander
+- title: cosby-facepalm.gif
+  category: facepalm
+  path: facepalm/cosby-facepalm.gif
   modified_time: 1486700774
-  extname: ".gif"
-- path: facepalm/picard-facepalm.gif
+  tags:
+  - cosby
+  - facepalm
+  - gif
+- title: picard-facepalm.gif
+  category: facepalm
+  path: facepalm/picard-facepalm.gif
   modified_time: 1486700774
-  extname: ".gif"
-- path: fail/cat-fail.gif
+  tags:
+  - facepalm
+  - gif
+  - picard
+- title: cat-fail.gif
+  category: fail
+  path: fail/cat-fail.gif
   modified_time: 1486700774
-  extname: ".gif"
-- path: fail/cat-mirror.gif
+  tags:
+  - cat
+  - fail
+  - gif
+- title: cat-mirror.gif
+  category: fail
+  path: fail/cat-mirror.gif
   modified_time: 1486700774
-  extname: ".gif"
-- path: fail/dance-fail.gif
+  tags:
+  - cat
+  - fail
+  - gif
+  - mirror
+- title: dance-fail.gif
+  category: fail
+  path: fail/dance-fail.gif
   modified_time: 1486700775
-  extname: ".gif"
-- path: fail/ferret-fail.gif
+  tags:
+  - dance
+  - fail
+  - gif
+- title: ferret-fail.gif
+  category: fail
+  path: fail/ferret-fail.gif
   modified_time: 1486700775
-  extname: ".gif"
-- path: fail/fumble.gif
+  tags:
+  - fail
+  - ferret
+  - gif
+- title: fumble.gif
+  category: fail
+  path: fail/fumble.gif
   modified_time: 1486700775
-  extname: ".gif"
-- path: fail/girls-swing.gif
+  tags:
+  - fail
+  - fumble
+  - gif
+- title: girls-swing.gif
+  category: fail
+  path: fail/girls-swing.gif
   modified_time: 1486700775
-  extname: ".gif"
-- path: fail/kayak-diving.gif
+  tags:
+  - fail
+  - gif
+  - girls
+  - swing
+- title: kayak-diving.gif
+  category: fail
+  path: fail/kayak-diving.gif
   modified_time: 1486700775
-  extname: ".gif"
-- path: fail/mascot-spill.gif
+  tags:
+  - diving
+  - fail
+  - gif
+  - kayak
+- title: mascot-spill.gif
+  category: fail
+  path: fail/mascot-spill.gif
   modified_time: 1486700776
-  extname: ".gif"
-- path: fail/party-wipeout.gif
+  tags:
+  - fail
+  - gif
+  - mascot
+  - spill
+- title: party-wipeout.gif
+  category: fail
+  path: fail/party-wipeout.gif
   modified_time: 1486700776
-  extname: ".gif"
-- path: fail/robot-face-smash.gif
+  tags:
+  - fail
+  - gif
+  - party
+  - wipeout
+- title: robot-face-smash.gif
+  category: fail
+  path: fail/robot-face-smash.gif
   modified_time: 1486700776
-  extname: ".gif"
-- path: fail/warehouse-forklift-crash.gif
+  tags:
+  - face
+  - fail
+  - gif
+  - robot
+  - smash
+- title: warehouse-forklift-crash.gif
+  category: fail
+  path: fail/warehouse-forklift-crash.gif
   modified_time: 1486700776
-  extname: ".gif"
-- path: fail/wheelbarrel-dump.gif
+  tags:
+  - crash
+  - fail
+  - forklift
+  - gif
+  - warehouse
+- title: wheelbarrel-dump.gif
+  category: fail
+  path: fail/wheelbarrel-dump.gif
   modified_time: 1486700777
-  extname: ".gif"
-- path: fu/boba-fett.gif
+  tags:
+  - dump
+  - fail
+  - gif
+  - wheelbarrel
+- title: boba-fett.gif
+  category: fu
+  path: fu/boba-fett.gif
   modified_time: 1486700777
-  extname: ".gif"
-- path: fu/congrats.gif
+  tags:
+  - boba
+  - fett
+  - fu
+  - gif
+- title: congrats.gif
+  category: fu
+  path: fu/congrats.gif
   modified_time: 1486700777
-  extname: ".gif"
-- path: fu/finger.gif
+  tags:
+  - congrats
+  - fu
+  - gif
+- title: finger.gif
+  category: fu
+  path: fu/finger.gif
   modified_time: 1486700777
-  extname: ".gif"
-- path: fu/finger2.gif
+  tags:
+  - finger
+  - fu
+  - gif
+- title: finger2.gif
+  category: fu
+  path: fu/finger2.gif
   modified_time: 1486700777
-  extname: ".gif"
-- path: fu/fu-computer.gif
+  tags:
+  - finger2
+  - fu
+  - gif
+- title: fu-computer.gif
+  category: fu
+  path: fu/fu-computer.gif
   modified_time: 1486700777
-  extname: ".gif"
-- path: fu/homer.gif
+  tags:
+  - computer
+  - fu
+  - gif
+- title: homer.gif
+  category: fu
+  path: fu/homer.gif
   modified_time: 1486700777
-  extname: ".gif"
-- path: fu/jon-stewart.gif
+  tags:
+  - fu
+  - gif
+  - homer
+- title: jon-stewart.gif
+  category: fu
+  path: fu/jon-stewart.gif
   modified_time: 1486700777
-  extname: ".gif"
-- path: fu/maybe-fuck-yourself.gif
+  tags:
+  - fu
+  - gif
+  - jon
+  - stewart
+- title: maybe-fuck-yourself.gif
+  category: fu
+  path: fu/maybe-fuck-yourself.gif
   modified_time: 1486700778
-  extname: ".gif"
-- path: fu/mr-bean.gif
+  tags:
+  - fu
+  - fuck
+  - gif
+  - maybe
+  - yourself
+- title: mr-bean.gif
+  category: fu
+  path: fu/mr-bean.gif
   modified_time: 1486700778
-  extname: ".gif"
-- path: fu/mr-rogers.gif
+  tags:
+  - bean
+  - fu
+  - gif
+  - mr
+- title: mr-rogers.gif
+  category: fu
+  path: fu/mr-rogers.gif
   modified_time: 1486700778
-  extname: ".gif"
-- path: fu/mrs-doubtfire-finger.gif
+  tags:
+  - fu
+  - gif
+  - mr
+  - rogers
+- title: mrs-doubtfire-finger.gif
+  category: fu
+  path: fu/mrs-doubtfire-finger.gif
   modified_time: 1486700779
-  extname: ".gif"
-- path: fu/silly-face.gif
+  tags:
+  - doubtfire
+  - finger
+  - fu
+  - gif
+  - mrs
+- title: silly-face.gif
+  category: fu
+  path: fu/silly-face.gif
   modified_time: 1486700779
-  extname: ".gif"
-- path: fu/zach-galifianakis.gif
+  tags:
+  - face
+  - fu
+  - gif
+  - silly
+- title: zach-galifianakis.gif
+  category: fu
+  path: fu/zach-galifianakis.gif
   modified_time: 1486700779
-  extname: ".gif"
-- path: gangsta/1-50-Cent-Laugh-Off.gif
+  tags:
+  - fu
+  - galifianakis
+  - gif
+  - zach
+- title: 1-50-Cent-Laugh-Off.gif
+  category: gangsta
+  path: gangsta/1-50-Cent-Laugh-Off.gif
   modified_time: 1486700780
-  extname: ".gif"
-- path: gangsta/42-Snoop-Bounce.gif
+  tags:
+  - '1'
+  - '50'
+  - Cent
+  - Laugh
+  - 'Off'
+  - gangsta
+  - gif
+- title: 42-Snoop-Bounce.gif
+  category: gangsta
+  path: gangsta/42-Snoop-Bounce.gif
   modified_time: 1486700780
-  extname: ".gif"
-- path: gangsta/good-day.gif
+  tags:
+  - '42'
+  - Bounce
+  - Snoop
+  - gangsta
+  - gif
+- title: good-day.gif
+  category: gangsta
+  path: gangsta/good-day.gif
   modified_time: 1486700780
-  extname: ".gif"
-- path: gtfo/get-the-eff-out.gif
+  tags:
+  - day
+  - gangsta
+  - gif
+  - good
+- title: get-the-eff-out.gif
+  category: gtfo
+  path: gtfo/get-the-eff-out.gif
   modified_time: 1486700780
-  extname: ".gif"
-- path: gtfo/hulk-punch-thor.gif
+  tags:
+  - eff
+  - get
+  - gif
+  - gtfo
+  - out
+  - the
+- title: hulk-punch-thor.gif
+  category: gtfo
+  path: gtfo/hulk-punch-thor.gif
   modified_time: 1486700780
-  extname: ".gif"
-- path: gtfo/pirates-runs-away.gif
+  tags:
+  - gif
+  - gtfo
+  - hulk
+  - punch
+  - thor
+- title: pirates-runs-away.gif
+  category: gtfo
+  path: gtfo/pirates-runs-away.gif
   modified_time: 1486700780
-  extname: ".gif"
-- path: gtfo/tracey-covers-mouth.gif
+  tags:
+  - away
+  - gif
+  - gtfo
+  - pirates
+  - runs
+- title: tracey-covers-mouth.gif
+  category: gtfo
+  path: gtfo/tracey-covers-mouth.gif
   modified_time: 1486702696
-  extname: ".gif"
-- path: gtfo/tsunami.gif
+  tags:
+  - covers
+  - gif
+  - gtfo
+  - mouth
+  - tracey
+- title: tsunami.gif
+  category: gtfo
+  path: gtfo/tsunami.gif
   modified_time: 1486700780
-  extname: ".gif"
-- path: gtfo/whack.gif
+  tags:
+  - gif
+  - gtfo
+  - tsunami
+- title: whack.gif
+  category: gtfo
+  path: gtfo/whack.gif
   modified_time: 1486700781
-  extname: ".gif"
-- path: hacking/typity-type.gif
+  tags:
+  - gif
+  - gtfo
+  - whack
+- title: typity-type.gif
+  category: hacking
+  path: hacking/typity-type.gif
   modified_time: 1486700781
-  extname: ".gif"
-- path: hand-wave/piss-off-1.gif
+  tags:
+  - gif
+  - hacking
+  - type
+  - typity
+- title: piss-off-1.gif
+  category: hand-wave
+  path: hand-wave/piss-off-1.gif
   modified_time: 1486700781
-  extname: ".gif"
-- path: hand-wave/sheen-hand-wave.gif
+  tags:
+  - '1'
+  - gif
+  - hand
+  - 'off'
+  - piss
+  - wave
+- title: sheen-hand-wave.gif
+  category: hand-wave
+  path: hand-wave/sheen-hand-wave.gif
   modified_time: 1486700781
-  extname: ".gif"
-- path: haters-gonna-hate/haters-gone-hate.gif
+  tags:
+  - gif
+  - hand
+  - sheen
+  - wave
+- title: haters-gone-hate.gif
+  category: haters-gonna-hate
+  path: haters-gonna-hate/haters-gone-hate.gif
   modified_time: 1486700781
-  extname: ".gif"
-- path: haters-gonna-hate/haters-gonna-hate-futurama.gif
+  tags:
+  - gif
+  - gone
+  - gonna
+  - hate
+  - haters
+- title: haters-gonna-hate-futurama.gif
+  category: haters-gonna-hate
+  path: haters-gonna-hate/haters-gonna-hate-futurama.gif
   modified_time: 1486700781
-  extname: ".gif"
-- path: headbang/beavis-butthead-headbang2.gif
+  tags:
+  - futurama
+  - gif
+  - gonna
+  - hate
+  - haters
+- title: beavis-butthead-headbang2.gif
+  category: headbang
+  path: headbang/beavis-butthead-headbang2.gif
   modified_time: 1486700781
-  extname: ".gif"
-- path: hiding/homer.gif
+  tags:
+  - beavis
+  - butthead
+  - gif
+  - headbang
+  - headbang2
+- title: homer.gif
+  category: hiding
+  path: hiding/homer.gif
   modified_time: 1486700782
-  extname: ".gif"
-- path: high-five/amy-seth-snl-high-five.gif
+  tags:
+  - gif
+  - hiding
+  - homer
+- title: amy-seth-snl-high-five.gif
+  category: high-five
+  path: high-five/amy-seth-snl-high-five.gif
   modified_time: 1486700782
-  extname: ".gif"
-- path: high-five/awkward-high-five.gif
+  tags:
+  - amy
+  - five
+  - gif
+  - high
+  - seth
+  - snl
+- title: awkward-high-five.gif
+  category: high-five
+  path: high-five/awkward-high-five.gif
   modified_time: 1486700782
-  extname: ".gif"
-- path: high-five/borat-high-five.gif
+  tags:
+  - awkward
+  - five
+  - gif
+  - high
+- title: borat-high-five.gif
+  category: high-five
+  path: high-five/borat-high-five.gif
   modified_time: 1486700782
-  extname: ".gif"
-- path: high-five/cat-high-five.gif
+  tags:
+  - borat
+  - five
+  - gif
+  - high
+- title: cat-high-five.gif
+  category: high-five
+  path: high-five/cat-high-five.gif
   modified_time: 1486700783
-  extname: ".gif"
-- path: high-five/community-high-five.gif
+  tags:
+  - cat
+  - five
+  - gif
+  - high
+- title: community-high-five.gif
+  category: high-five
+  path: high-five/community-high-five.gif
   modified_time: 1486700783
-  extname: ".gif"
-- path: high-five/conan-andy-high-five.gif
+  tags:
+  - community
+  - five
+  - gif
+  - high
+- title: conan-andy-high-five.gif
+  category: high-five
+  path: high-five/conan-andy-high-five.gif
   modified_time: 1486700784
-  extname: ".gif"
-- path: high-five/friends-rachel-ross-high-five.gif
+  tags:
+  - andy
+  - conan
+  - five
+  - gif
+  - high
+- title: friends-rachel-ross-high-five.gif
+  category: high-five
+  path: high-five/friends-rachel-ross-high-five.gif
   modified_time: 1486700784
-  extname: ".gif"
-- path: high-five/high-five-met-your-mother.gif
+  tags:
+  - five
+  - friends
+  - gif
+  - high
+  - rachel
+  - ross
+- title: high-five-met-your-mother.gif
+  category: high-five
+  path: high-five/high-five-met-your-mother.gif
   modified_time: 1486700784
-  extname: ".gif"
-- path: high-five/it-crowd-high-five.gif
+  tags:
+  - five
+  - gif
+  - high
+  - met
+  - mother
+  - your
+- title: it-crowd-high-five.gif
+  category: high-five
+  path: high-five/it-crowd-high-five.gif
   modified_time: 1486700784
-  extname: ".gif"
-- path: high-five/pokemon-high-five-2.gif
+  tags:
+  - crowd
+  - five
+  - gif
+  - high
+  - it
+- title: pokemon-high-five-2.gif
+  category: high-five
+  path: high-five/pokemon-high-five-2.gif
   modified_time: 1486700784
-  extname: ".gif"
-- path: high-five/police-high-five.gif
+  tags:
+  - '2'
+  - five
+  - gif
+  - high
+  - pokemon
+- title: police-high-five.gif
+  category: high-five
+  path: high-five/police-high-five.gif
   modified_time: 1486700784
-  extname: ".gif"
-- path: high-five/will-smith-jazzy-jeff-dap.gif
+  tags:
+  - five
+  - gif
+  - high
+  - police
+- title: will-smith-jazzy-jeff-dap.gif
+  category: high-five
+  path: high-five/will-smith-jazzy-jeff-dap.gif
   modified_time: 1486700784
-  extname: ".gif"
-- path: high-five/will-smith-jazzy-jeff-high-five.gif
+  tags:
+  - dap
+  - five
+  - gif
+  - high
+  - jazzy
+  - jeff
+  - smith
+  - will
+- title: will-smith-jazzy-jeff-high-five.gif
+  category: high-five
+  path: high-five/will-smith-jazzy-jeff-high-five.gif
   modified_time: 1486700784
-  extname: ".gif"
-- path: hubbers/jakeboxer-uh-uh-whiteboard.gif
+  tags:
+  - five
+  - gif
+  - high
+  - jazzy
+  - jeff
+  - smith
+  - will
+- title: jakeboxer-uh-uh-whiteboard.gif
+  category: hubbers
+  path: hubbers/jakeboxer-uh-uh-whiteboard.gif
   modified_time: 1486700785
-  extname: ".gif"
-- path: hug/girfriend-hug.gif
+  tags:
+  - gif
+  - hubbers
+  - jakeboxer
+  - uh
+  - whiteboard
+- title: girfriend-hug.gif
+  category: hug
+  path: hug/girfriend-hug.gif
   modified_time: 1486700785
-  extname: ".gif"
-- path: impressed/impressive.gif
+  tags:
+  - gif
+  - girfriend
+  - hug
+- title: impressive.gif
+  category: impressed
+  path: impressed/impressive.gif
   modified_time: 1486700785
-  extname: ".gif"
-- path: impressed/sunglasses-off-loop.gif
+  tags:
+  - gif
+  - impressed
+  - impressive
+- title: sunglasses-off-loop.gif
+  category: impressed
+  path: impressed/sunglasses-off-loop.gif
   modified_time: 1486700785
-  extname: ".gif"
-- path: jurassic-park/hold-onto-ur-butts.gif
+  tags:
+  - gif
+  - impressed
+  - loop
+  - 'off'
+  - sunglasses
+- title: what-you-did-there.jpg
+  category: jpg
+  path: jpg/what-you-did-there.jpg
   modified_time: 1486700785
-  extname: ".gif"
-- path: laughing/absurd-laugh.gif
+  tags:
+  - did
+  - jpg
+  - there
+  - what
+  - you
+- title: hold-onto-ur-butts.gif
+  category: jurassic-park
+  path: jurassic-park/hold-onto-ur-butts.gif
   modified_time: 1486700785
-  extname: ".gif"
-- path: laughing/baldwin-laugh.gif
+  tags:
+  - butts
+  - gif
+  - hold
+  - jurassic
+  - onto
+  - park
+  - ur
+- title: absurd-laugh.gif
+  category: laughing
+  path: laughing/absurd-laugh.gif
   modified_time: 1486700785
-  extname: ".gif"
-- path: laughing/beyonce-laugh.gif
+  tags:
+  - absurd
+  - gif
+  - laugh
+  - laughing
+- title: baldwin-laugh.gif
+  category: laughing
+  path: laughing/baldwin-laugh.gif
   modified_time: 1486700785
-  extname: ".gif"
-- path: laughing/dumb-dumber-laugh-2.gif
+  tags:
+  - baldwin
+  - gif
+  - laugh
+  - laughing
+- title: beyonce-laugh.gif
+  category: laughing
+  path: laughing/beyonce-laugh.gif
+  modified_time: 1486700785
+  tags:
+  - beyonce
+  - gif
+  - laugh
+  - laughing
+- title: dumb-dumber-laugh-2.gif
+  category: laughing
+  path: laughing/dumb-dumber-laugh-2.gif
   modified_time: 1486700786
-  extname: ".gif"
-- path: laughing/dumb-dumber-laugh.gif
+  tags:
+  - '2'
+  - dumb
+  - dumber
+  - gif
+  - laugh
+  - laughing
+- title: dumb-dumber-laugh.gif
+  category: laughing
+  path: laughing/dumb-dumber-laugh.gif
   modified_time: 1486700786
-  extname: ".gif"
-- path: laughing/fallon-laugh.gif
+  tags:
+  - dumb
+  - dumber
+  - gif
+  - laugh
+  - laughing
+- title: fallon-laugh.gif
+  category: laughing
+  path: laughing/fallon-laugh.gif
   modified_time: 1486700787
-  extname: ".gif"
-- path: lol/harry-lol.gif
+  tags:
+  - fallon
+  - gif
+  - laugh
+  - laughing
+- title: harry-lol.gif
+  category: lol
+  path: lol/harry-lol.gif
   modified_time: 1486700787
-  extname: ".gif"
-- path: lol/milk-out-noze.gif
+  tags:
+  - gif
+  - harry
+  - lol
+- title: milk-out-noze.gif
+  category: lol
+  path: lol/milk-out-noze.gif
   modified_time: 1486700787
-  extname: ".gif"
-- path: lolwat/foot-dance.gif
+  tags:
+  - gif
+  - lol
+  - milk
+  - noze
+  - out
+- title: foot-dance.gif
+  category: lolwat
+  path: lolwat/foot-dance.gif
   modified_time: 1486700787
-  extname: ".gif"
-- path: lolwat/icecreamkid.gif
+  tags:
+  - dance
+  - foot
+  - gif
+  - lolwat
+- title: icecreamkid.gif
+  category: lolwat
+  path: lolwat/icecreamkid.gif
   modified_time: 1486700787
-  extname: ".gif"
-- path: lolwat/lolwut-rappers.gif
+  tags:
+  - gif
+  - icecreamkid
+  - lolwat
+- title: lolwut-rappers.gif
+  category: lolwat
+  path: lolwat/lolwut-rappers.gif
   modified_time: 1486700788
-  extname: ".gif"
-- path: lolwat/prancercise.gif
+  tags:
+  - gif
+  - lolwat
+  - lolwut
+  - rappers
+- title: prancercise.gif
+  category: lolwat
+  path: lolwat/prancercise.gif
   modified_time: 1486700788
-  extname: ".gif"
-- path: lolwat/silly-face.gif
+  tags:
+  - gif
+  - lolwat
+  - prancercise
+- title: silly-face.gif
+  category: lolwat
+  path: lolwat/silly-face.gif
   modified_time: 1486700788
-  extname: ".gif"
-- path: lolwat/thats-a-penis-gif.gif
+  tags:
+  - face
+  - gif
+  - lolwat
+  - silly
+- title: thats-a-penis-gif.gif
+  category: lolwat
+  path: lolwat/thats-a-penis-gif.gif
   modified_time: 1486700788
-  extname: ".gif"
-- path: lolwat/vevulza-winning.gif
+  tags:
+  - a
+  - gif
+  - lolwat
+  - penis
+  - thats
+- title: vevulza-winning.gif
+  category: lolwat
+  path: lolwat/vevulza-winning.gif
   modified_time: 1486700788
-  extname: ".gif"
-- path: mind-blown/magic.gif
+  tags:
+  - gif
+  - lolwat
+  - vevulza
+  - winning
+- title: magic.gif
+  category: mind-blown
+  path: mind-blown/magic.gif
   modified_time: 1486700789
-  extname: ".gif"
-- path: mind-blown/mind-blown-2.gif
+  tags:
+  - blown
+  - gif
+  - magic
+  - mind
+- title: mind-blown-2.gif
+  category: mind-blown
+  path: mind-blown/mind-blown-2.gif
   modified_time: 1486700790
-  extname: ".gif"
-- path: mind-blown/Mind-Blown-Russell-Brand.gif
+  tags:
+  - '2'
+  - blown
+  - gif
+  - mind
+- title: Mind-Blown-Russell-Brand.gif
+  category: mind-blown
+  path: mind-blown/Mind-Blown-Russell-Brand.gif
   modified_time: 1486700788
-  extname: ".gif"
-- path: mind-blown/mind-blown.gif
+  tags:
+  - Blown
+  - Brand
+  - Mind
+  - Russell
+  - blown
+  - gif
+  - mind
+- title: mind-blown.gif
+  category: mind-blown
+  path: mind-blown/mind-blown.gif
   modified_time: 1486700790
-  extname: ".gif"
-- path: mind-blown/mind-blown2.gif
+  tags:
+  - blown
+  - gif
+  - mind
+- title: mind-blown2.gif
+  category: mind-blown
+  path: mind-blown/mind-blown2.gif
   modified_time: 1486700791
-  extname: ".gif"
-- path: nailed-it/huge-dive.gif
+  tags:
+  - blown
+  - blown2
+  - gif
+  - mind
+- title: huge-dive.gif
+  category: nailed-it
+  path: nailed-it/huge-dive.gif
   modified_time: 1486700791
-  extname: ".gif"
-- path: nailed-it/nailed-it-bowling-pins.gif
+  tags:
+  - dive
+  - gif
+  - huge
+  - it
+  - nailed
+- title: nailed-it-bowling-pins.gif
+  category: nailed-it
+  path: nailed-it/nailed-it-bowling-pins.gif
   modified_time: 1486700791
-  extname: ".gif"
-- path: nailed-it/nailed-it-car-jump.gif
+  tags:
+  - bowling
+  - gif
+  - it
+  - nailed
+  - pins
+- title: nailed-it-car-jump.gif
+  category: nailed-it
+  path: nailed-it/nailed-it-car-jump.gif
   modified_time: 1486700791
-  extname: ".gif"
-- path: nailed-it/nailed-it-glasses.gif
+  tags:
+  - car
+  - gif
+  - it
+  - jump
+  - nailed
+- title: nailed-it-glasses.gif
+  category: nailed-it
+  path: nailed-it/nailed-it-glasses.gif
   modified_time: 1486700791
-  extname: ".gif"
-- path: nailed-it/nailed-it-phone-dunk.gif
+  tags:
+  - gif
+  - glasses
+  - it
+  - nailed
+- title: nailed-it-phone-dunk.gif
+  category: nailed-it
+  path: nailed-it/nailed-it-phone-dunk.gif
   modified_time: 1486700791
-  extname: ".gif"
-- path: napoleon/napoleon.gif
+  tags:
+  - dunk
+  - gif
+  - it
+  - nailed
+  - phone
+- title: napoleon.gif
+  category: napoleon
+  path: napoleon/napoleon.gif
   modified_time: 1486700792
-  extname: ".gif"
-- path: no/dikembe-mutumbo-nope.gif
+  tags:
+  - gif
+  - napoleon
+- title: dikembe-mutumbo-nope.gif
+  category: 'no'
+  path: no/dikembe-mutumbo-nope.gif
   modified_time: 1486700793
-  extname: ".gif"
-- path: no/grandpa-simpson-nope.gif
+  tags:
+  - dikembe
+  - gif
+  - mutumbo
+  - 'no'
+  - nope
+- title: grandpa-simpson-nope.gif
+  category: 'no'
+  path: no/grandpa-simpson-nope.gif
   modified_time: 1486700793
-  extname: ".gif"
-- path: no/homer-nope.gif
+  tags:
+  - gif
+  - grandpa
+  - 'no'
+  - nope
+  - simpson
+- title: homer-nope.gif
+  category: 'no'
+  path: no/homer-nope.gif
   modified_time: 1486700793
-  extname: ".gif"
-- path: no/no-no.gif
+  tags:
+  - gif
+  - homer
+  - 'no'
+  - nope
+- title: no-no.gif
+  category: 'no'
+  path: no/no-no.gif
   modified_time: 1486700794
-  extname: ".gif"
-- path: no/no_way_Neil_deGrasse_Tyson.gif
+  tags:
+  - gif
+  - 'no'
+- title: no_way_Neil_deGrasse_Tyson.gif
+  category: 'no'
+  path: no/no_way_Neil_deGrasse_Tyson.gif
   modified_time: 1486700794
-  extname: ".gif"
-- path: no/nope-duck.gif
+  tags:
+  - Neil
+  - Tyson
+  - deGrasse
+  - gif
+  - 'no'
+  - way
+- title: nope-duck.gif
+  category: 'no'
+  path: no/nope-duck.gif
   modified_time: 1486700794
-  extname: ".gif"
-- path: no/old-man-no.gif
+  tags:
+  - duck
+  - gif
+  - 'no'
+  - nope
+- title: old-man-no.gif
+  category: 'no'
+  path: no/old-man-no.gif
   modified_time: 1486700794
-  extname: ".gif"
-- path: no/QA-rejected.gif
+  tags:
+  - gif
+  - man
+  - 'no'
+  - old
+- title: QA-rejected.gif
+  category: 'no'
+  path: no/QA-rejected.gif
   modified_time: 1486700792
-  extname: ".gif"
-- path: no/really-hahaha-no.gif
+  tags:
+  - QA
+  - gif
+  - 'no'
+  - rejected
+- title: really-hahaha-no.gif
+  category: 'no'
+  path: no/really-hahaha-no.gif
   modified_time: 1486700794
-  extname: ".gif"
-- path: no/tracey-jordan-nope.gif
+  tags:
+  - gif
+  - hahaha
+  - 'no'
+  - really
+- title: tracey-jordan-nope.gif
+  category: 'no'
+  path: no/tracey-jordan-nope.gif
   modified_time: 1486700794
-  extname: ".gif"
-- path: no/wave-denied-nope.gif
+  tags:
+  - gif
+  - jordan
+  - 'no'
+  - nope
+  - tracey
+- title: wave-denied-nope.gif
+  category: 'no'
+  path: no/wave-denied-nope.gif
   modified_time: 1486700794
-  extname: ".gif"
-- path: no/whatno.gif
+  tags:
+  - denied
+  - gif
+  - 'no'
+  - nope
+  - wave
+- title: whatno.gif
+  category: 'no'
+  path: no/whatno.gif
   modified_time: 1486700795
-  extname: ".gif"
-- path: omg/36-Friday-Damn.gif
+  tags:
+  - gif
+  - 'no'
+  - whatno
+- title: 36-Friday-Damn.gif
+  category: omg
+  path: omg/36-Friday-Damn.gif
   modified_time: 1486700795
-  extname: ".gif"
-- path: omg/austin-powers-omg.gif
+  tags:
+  - '36'
+  - Damn
+  - Friday
+  - gif
+  - omg
+- title: austin-powers-omg.gif
+  category: omg
+  path: omg/austin-powers-omg.gif
   modified_time: 1486700795
-  extname: ".gif"
-- path: omg/fresh-prince-omg.gif
+  tags:
+  - austin
+  - gif
+  - omg
+  - powers
+- title: fresh-prince-omg.gif
+  category: omg
+  path: omg/fresh-prince-omg.gif
   modified_time: 1486700795
-  extname: ".gif"
-- path: omg/Kramer-whaaa.gif
+  tags:
+  - fresh
+  - gif
+  - omg
+  - prince
+- title: Kramer-whaaa.gif
+  category: omg
+  path: omg/Kramer-whaaa.gif
   modified_time: 1486700795
-  extname: ".gif"
-- path: omg/omg.gif
+  tags:
+  - Kramer
+  - gif
+  - omg
+  - whaaa
+- title: omg.gif
+  category: omg
+  path: omg/omg.gif
   modified_time: 1486700795
-  extname: ".gif"
-- path: omg/ooooo.gif
+  tags:
+  - gif
+  - omg
+- title: ooooo.gif
+  category: omg
+  path: omg/ooooo.gif
   modified_time: 1486700796
-  extname: ".gif"
-- path: popcorn/gazelle-popcorn.gif
+  tags:
+  - gif
+  - omg
+  - ooooo
+- title: gazelle-popcorn.gif
+  category: popcorn
+  path: popcorn/gazelle-popcorn.gif
   modified_time: 1486700796
-  extname: ".gif"
-- path: popcorn/it-crowd-popcorn.gif
+  tags:
+  - gazelle
+  - gif
+  - popcorn
+- title: it-crowd-popcorn.gif
+  category: popcorn
+  path: popcorn/it-crowd-popcorn.gif
   modified_time: 1486700796
-  extname: ".gif"
-- path: popcorn/jon-stewart-popcorn.gif
+  tags:
+  - crowd
+  - gif
+  - it
+  - popcorn
+- title: jon-stewart-popcorn.gif
+  category: popcorn
+  path: popcorn/jon-stewart-popcorn.gif
   modified_time: 1486702348
-  extname: ".gif"
-- path: popcorn/popcorn-stuffing.gif
+  tags:
+  - gif
+  - jon
+  - popcorn
+  - stewart
+- title: popcorn-stuffing.gif
+  category: popcorn
+  path: popcorn/popcorn-stuffing.gif
   modified_time: 1486700796
-  extname: ".gif"
-- path: rip/pour-one-out.gif
+  tags:
+  - gif
+  - popcorn
+  - stuffing
+- title: pour-one-out.gif
+  category: rip
+  path: rip/pour-one-out.gif
   modified_time: 1486702587
-  extname: ".gif"
-- path: scared/3FlzE.gif
+  tags:
+  - gif
+  - one
+  - out
+  - pour
+  - rip
+- title: 3FlzE.gif
+  category: scared
+  path: scared/3FlzE.gif
   modified_time: 1486700796
-  extname: ".gif"
-- path: scared/ahhhhh.gif
+  tags:
+  - 3FlzE
+  - gif
+  - scared
+- title: ahhhhh.gif
+  category: scared
+  path: scared/ahhhhh.gif
   modified_time: 1486700796
-  extname: ".gif"
-- path: scared/badger-run-away.gif
+  tags:
+  - ahhhhh
+  - gif
+  - scared
+- title: badger-run-away.gif
+  category: scared
+  path: scared/badger-run-away.gif
   modified_time: 1486700797
-  extname: ".gif"
-- path: scared/scared-cat.gif
+  tags:
+  - away
+  - badger
+  - gif
+  - run
+  - scared
+- title: scared-cat.gif
+  category: scared
+  path: scared/scared-cat.gif
   modified_time: 1486700798
-  extname: ".gif"
-- path: scared/scared-cats.gif
+  tags:
+  - cat
+  - gif
+  - scared
+- title: scared-cats.gif
+  category: scared
+  path: scared/scared-cats.gif
   modified_time: 1486700798
-  extname: ".gif"
-- path: ship/canal-ships.gif
+  tags:
+  - cats
+  - gif
+  - scared
+- title: canal-ships.gif
+  category: ship
+  path: ship/canal-ships.gif
   modified_time: 1486700798
-  extname: ".gif"
-- path: support/care-bear-stare.gif
+  tags:
+  - canal
+  - gif
+  - ship
+  - ships
+- title: care-bear-stare.gif
+  category: support
+  path: support/care-bear-stare.gif
   modified_time: 1486700799
-  extname: ".gif"
-- path: support/take-my-money.gif
+  tags:
+  - bear
+  - care
+  - gif
+  - stare
+  - support
+- title: take-my-money.gif
+  category: support
+  path: support/take-my-money.gif
   modified_time: 1486700799
-  extname: ".gif"
-- path: support/yup-stepbrothers.gif
+  tags:
+  - gif
+  - money
+  - my
+  - support
+  - take
+- title: yup-stepbrothers.gif
+  category: support
+  path: support/yup-stepbrothers.gif
   modified_time: 1486700799
-  extname: ".gif"
-- path: swoon/cartoon-swoon.gif
+  tags:
+  - gif
+  - stepbrothers
+  - support
+  - yup
+- title: cartoon-swoon.gif
+  category: swoon
+  path: swoon/cartoon-swoon.gif
   modified_time: 1486700799
-  extname: ".gif"
-- path: swoon/ohhh-minion.gif
+  tags:
+  - cartoon
+  - gif
+  - swoon
+- title: ohhh-minion.gif
+  category: swoon
+  path: swoon/ohhh-minion.gif
   modified_time: 1486700800
-  extname: ".gif"
-- path: thank-you/thank-you-spice.gif
+  tags:
+  - gif
+  - minion
+  - ohhh
+  - swoon
+- title: thank-you-spice.gif
+  category: thank-you
+  path: thank-you/thank-you-spice.gif
   modified_time: 1486700800
-  extname: ".gif"
-- path: that/ryan-the-office-yes-that.gif
+  tags:
+  - gif
+  - spice
+  - thank
+  - you
+- title: ryan-the-office-yes-that.gif
+  category: that
+  path: that/ryan-the-office-yes-that.gif
   modified_time: 1486702367
-  extname: ".gif"
-- path: thinking/han-solo-thinking.gif
+  tags:
+  - gif
+  - office
+  - ryan
+  - that
+  - the
+  - 'yes'
+- title: han-solo-thinking.gif
+  category: thinking
+  path: thinking/han-solo-thinking.gif
   modified_time: 1486702389
-  extname: ".gif"
-- path: thinking/lucy-thinking.gif
+  tags:
+  - gif
+  - han
+  - solo
+  - thinking
+- title: lucy-thinking.gif
+  category: thinking
+  path: thinking/lucy-thinking.gif
   modified_time: 1486702396
-  extname: ".gif"
-- path: thinking/pence-thinking.gif
+  tags:
+  - gif
+  - lucy
+  - thinking
+- title: pence-thinking.gif
+  category: thinking
+  path: thinking/pence-thinking.gif
   modified_time: 1486702398
-  extname: ".gif"
-- path: thinking/thinking.gif
+  tags:
+  - gif
+  - pence
+  - thinking
+- title: thinking.gif
+  category: thinking
+  path: thinking/thinking.gif
   modified_time: 1486702404
-  extname: ".gif"
-- path: thinking/timberlake-thinking.gif
+  tags:
+  - gif
+  - thinking
+- title: timberlake-thinking.gif
+  category: thinking
+  path: thinking/timberlake-thinking.gif
   modified_time: 1486702408
-  extname: ".gif"
-- path: thumbs-up/chuck-norris.gif
+  tags:
+  - gif
+  - thinking
+  - timberlake
+- title: chuck-norris.gif
+  category: thumbs-up
+  path: thumbs-up/chuck-norris.gif
   modified_time: 1486700800
-  extname: ".gif"
-- path: thumbs-up/cool-kid-thumbsup.gif
+  tags:
+  - chuck
+  - gif
+  - norris
+  - thumbs
+  - up
+- title: cool-kid-thumbsup.gif
+  category: thumbs-up
+  path: thumbs-up/cool-kid-thumbsup.gif
   modified_time: 1486700801
-  extname: ".gif"
-- path: thumbs-up/jakie-chan-thumbsup.gif
+  tags:
+  - cool
+  - gif
+  - kid
+  - thumbs
+  - thumbsup
+  - up
+- title: jakie-chan-thumbsup.gif
+  category: thumbs-up
+  path: thumbs-up/jakie-chan-thumbsup.gif
   modified_time: 1486700801
-  extname: ".gif"
-- path: thumbs-up/suits-thumbsup.gif
+  tags:
+  - chan
+  - gif
+  - jakie
+  - thumbs
+  - thumbsup
+  - up
+- title: suits-thumbsup.gif
+  category: thumbs-up
+  path: thumbs-up/suits-thumbsup.gif
   modified_time: 1486700802
-  extname: ".gif"
-- path: thumbs-up/terminator.gif
+  tags:
+  - gif
+  - suits
+  - thumbs
+  - thumbsup
+  - up
+- title: terminator.gif
+  category: thumbs-up
+  path: thumbs-up/terminator.gif
   modified_time: 1486700802
-  extname: ".gif"
-- path: thumbs-up/thumbs-up-levar-burton.gif
+  tags:
+  - gif
+  - terminator
+  - thumbs
+  - up
+- title: thumbs-up-levar-burton.gif
+  category: thumbs-up
+  path: thumbs-up/thumbs-up-levar-burton.gif
   modified_time: 1486700802
-  extname: ".gif"
-- path: thumbs-up/thumbs-up.gif
+  tags:
+  - burton
+  - gif
+  - levar
+  - thumbs
+  - up
+- title: thumbs-up.gif
+  category: thumbs-up
+  path: thumbs-up/thumbs-up.gif
   modified_time: 1486700802
-  extname: ".gif"
-- path: thumbs-up/you-got-it-dude.gif
+  tags:
+  - gif
+  - thumbs
+  - up
+- title: you-got-it-dude.gif
+  category: thumbs-up
+  path: thumbs-up/you-got-it-dude.gif
   modified_time: 1486702490
-  extname: ".gif"
-- path: tired/arrested-development-tired.gif
+  tags:
+  - dude
+  - gif
+  - got
+  - it
+  - thumbs
+  - up
+  - you
+- title: arrested-development-tired.gif
+  category: tired
+  path: tired/arrested-development-tired.gif
   modified_time: 1486702417
-  extname: ".gif"
-- path: upset/alen-rickman.gif
+  tags:
+  - arrested
+  - development
+  - gif
+  - tired
+- title: alen-rickman.gif
+  category: upset
+  path: upset/alen-rickman.gif
   modified_time: 1486700803
-  extname: ".gif"
-- path: upset/amy-pohler-rage.gif
+  tags:
+  - alen
+  - gif
+  - rickman
+  - upset
+- title: amy-pohler-rage.gif
+  category: upset
+  path: upset/amy-pohler-rage.gif
   modified_time: 1486700803
-  extname: ".gif"
-- path: upset/chuck-norris-punch.gif
+  tags:
+  - amy
+  - gif
+  - pohler
+  - rage
+  - upset
+- title: chuck-norris-punch.gif
+  category: upset
+  path: upset/chuck-norris-punch.gif
   modified_time: 1486700804
-  extname: ".gif"
-- path: upset/conan-ragequit.gif
+  tags:
+  - chuck
+  - gif
+  - norris
+  - punch
+  - upset
+- title: conan-ragequit.gif
+  category: upset
+  path: upset/conan-ragequit.gif
   modified_time: 1486700804
-  extname: ".gif"
-- path: upset/did-u-see-this.gif
+  tags:
+  - conan
+  - gif
+  - ragequit
+  - upset
+- title: did-u-see-this.gif
+  category: upset
+  path: upset/did-u-see-this.gif
   modified_time: 1486700804
-  extname: ".gif"
-- path: upset/done-with-this.gif
+  tags:
+  - did
+  - gif
+  - see
+  - this
+  - u
+  - upset
+- title: done-with-this.gif
+  category: upset
+  path: upset/done-with-this.gif
   modified_time: 1486700805
-  extname: ".gif"
-- path: upset/its-all-shit.gif
+  tags:
+  - done
+  - gif
+  - this
+  - upset
+  - with
+- title: its-all-shit.gif
+  category: upset
+  path: upset/its-all-shit.gif
   modified_time: 1334650353
-  extname: ".gif"
-- path: upset/jumps-out-window2.gif
+  tags:
+  - all
+  - gif
+  - its
+  - shit
+  - upset
+- title: jumps-out-window2.gif
+  category: upset
+  path: upset/jumps-out-window2.gif
   modified_time: 1486700805
-  extname: ".gif"
-- path: upset/noooo.gif
+  tags:
+  - gif
+  - jumps
+  - out
+  - upset
+  - window2
+- title: noooo.gif
+  category: upset
+  path: upset/noooo.gif
   modified_time: 1486700805
-  extname: ".gif"
-- path: upset/obama-kicks-door.gif
+  tags:
+  - gif
+  - noooo
+  - upset
+- title: obama-kicks-door.gif
+  category: upset
+  path: upset/obama-kicks-door.gif
   modified_time: 1486700806
-  extname: ".gif"
-- path: upset/office-tableflip.gif
+  tags:
+  - door
+  - gif
+  - kicks
+  - obama
+  - upset
+- title: office-tableflip.gif
+  category: upset
+  path: upset/office-tableflip.gif
   modified_time: 1486700806
-  extname: ".gif"
-- path: upset/outta-here.gif
+  tags:
+  - gif
+  - office
+  - tableflip
+  - upset
+- title: outta-here.gif
+  category: upset
+  path: upset/outta-here.gif
   modified_time: 1486700806
-  extname: ".gif"
-- path: upset/really.gif
+  tags:
+  - gif
+  - here
+  - outta
+  - upset
+- title: really.gif
+  category: upset
+  path: upset/really.gif
   modified_time: 1486700807
-  extname: ".gif"
-- path: upset/table-wipe-rage.gif
+  tags:
+  - gif
+  - really
+  - upset
+- title: table-wipe-rage.gif
+  category: upset
+  path: upset/table-wipe-rage.gif
   modified_time: 1486700807
-  extname: ".gif"
-- path: upset/tableflip.gif
+  tags:
+  - gif
+  - rage
+  - table
+  - upset
+  - wipe
+- title: tableflip.gif
+  category: upset
+  path: upset/tableflip.gif
   modified_time: 1486700808
-  extname: ".gif"
-- path: upset/whyyyyy.gif
+  tags:
+  - gif
+  - tableflip
+  - upset
+- title: whyyyyy.gif
+  category: upset
+  path: upset/whyyyyy.gif
   modified_time: 1486700808
-  extname: ".gif"
-- path: waiting/sebastian-waiting.gif
+  tags:
+  - gif
+  - upset
+  - whyyyyy
+- title: sebastian-waiting.gif
+  category: waiting
+  path: waiting/sebastian-waiting.gif
   modified_time: 1486702564
-  extname: ".gif"
-- path: want/colbert-give-it-to-me.gif
+  tags:
+  - gif
+  - sebastian
+  - waiting
+- title: colbert-give-it-to-me.gif
+  category: want
+  path: want/colbert-give-it-to-me.gif
   modified_time: 1486702805
-  extname: ".gif"
-- path: web-dev/family-guy-css.gif
+  tags:
+  - colbert
+  - gif
+  - give
+  - it
+  - me
+  - to
+  - want
+- title: family-guy-css.gif
+  category: web-dev
+  path: web-dev/family-guy-css.gif
   modified_time: 1486700809
-  extname: ".gif"
-- path: whatever/eye-roll.gif
+  tags:
+  - css
+  - dev
+  - family
+  - gif
+  - guy
+  - web
+- title: eye-roll.gif
+  category: whatever
+  path: whatever/eye-roll.gif
   modified_time: 1486700809
-  extname: ".gif"
-- path: whatever/james-franco-hands-up.gif
+  tags:
+  - eye
+  - gif
+  - roll
+  - whatever
+- title: james-franco-hands-up.gif
+  category: whatever
+  path: whatever/james-franco-hands-up.gif
   modified_time: 1486700809
-  extname: ".gif"
-- path: whatever/miley-whatever.gif
+  tags:
+  - franco
+  - gif
+  - hands
+  - james
+  - up
+  - whatever
+- title: miley-whatever.gif
+  category: whatever
+  path: whatever/miley-whatever.gif
   modified_time: 1486700809
-  extname: ".gif"
-- path: whatever/trumpfaces.gif
+  tags:
+  - gif
+  - miley
+  - whatever
+- title: trumpfaces.gif
+  category: whatever
+  path: whatever/trumpfaces.gif
   modified_time: 1486700811
-  extname: ".gif"
-- path: why-you/i-see-what-you-did-there.gif
+  tags:
+  - gif
+  - trumpfaces
+  - whatever
+- title: i-see-what-you-did-there.gif
+  category: why-you
+  path: why-you/i-see-what-you-did-there.gif
   modified_time: 1486700813
-  extname: ".gif"
-- path: will-ferrell/boy-that-escalated-quickly.gif
+  tags:
+  - did
+  - gif
+  - i
+  - see
+  - there
+  - what
+  - why
+  - you
+- title: boy-that-escalated-quickly.gif
+  category: will-ferrell
+  path: will-ferrell/boy-that-escalated-quickly.gif
   modified_time: 1486700814
-  extname: ".gif"
-- path: will-ferrell/kind-of-a-big-deal.gif
+  tags:
+  - boy
+  - escalated
+  - ferrell
+  - gif
+  - quickly
+  - that
+  - will
+- title: kind-of-a-big-deal.gif
+  category: will-ferrell
+  path: will-ferrell/kind-of-a-big-deal.gif
   modified_time: 1486700814
-  extname: ".gif"
-- path: will-ferrell/san-diego-whales-vigina.gif
+  tags:
+  - a
+  - big
+  - deal
+  - ferrell
+  - gif
+  - kind
+  - of
+  - will
+- title: san-diego-whales-vigina.gif
+  category: will-ferrell
+  path: will-ferrell/san-diego-whales-vigina.gif
   modified_time: 1486700815
-  extname: ".gif"
-- path: yes/eh-uh-huh.gif
+  tags:
+  - diego
+  - ferrell
+  - gif
+  - san
+  - vigina
+  - whales
+  - will
+- title: eh-uh-huh.gif
+  category: 'yes'
+  path: yes/eh-uh-huh.gif
   modified_time: 1486700816
-  extname: ".gif"
-- path: yes/yup.gif
+  tags:
+  - eh
+  - gif
+  - huh
+  - uh
+  - 'yes'
+- title: yup.gif
+  category: 'yes'
+  path: yes/yup.gif
   modified_time: 1486700817
-  extname: ".gif"
+  tags:
+  - gif
+  - 'yes'
+  - yup
