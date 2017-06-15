@@ -73,7 +73,7 @@
         lastCategory = item.category;
         currentCategoryListNode = createCategoryListNode(ulNode, item.category);
       }
-      aNode.setAttribute('href', '{{ site.github.url | append: "/" }}' + item.path);
+      aNode.setAttribute('href', '{{ site.github.url | remove_first: "http:" | append: "/" }}' + item.path);
       aNode.setAttribute('title', item.title);
       aNode.setAttribute('class', 'gif');
       aNode.innerHTML = item.title;
